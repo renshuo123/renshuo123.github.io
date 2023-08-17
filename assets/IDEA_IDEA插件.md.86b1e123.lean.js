@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as p,Q as l}from"./chunks/framework.c0bb1b40.js";const u=JSON.parse('{"title":"IDEA实用插件","description":"","frontmatter":{},"headers":[],"relativePath":"IDEA/IDEA插件.md","filePath":"IDEA/IDEA插件.md"}'),i={name:"IDEA/IDEA插件.md"},o=l("",648),t=[o];function n(s,r,c,m,b,g){return e(),p("div",null,t)}const h=a(i,[["render",n]]);export{u as __pageData,h as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as l}from"./chunks/framework.c0bb1b40.js";const A=JSON.parse('{"title":"秒杀思路","description":"","frontmatter":{},"headers":[],"relativePath":"三高/秒杀.md","filePath":"三高/秒杀.md"}'),p={name:"三高/秒杀.md"},o=l("",877),e=[o];function t(c,r,i,D,y,F){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{A as __pageData,d as default};
